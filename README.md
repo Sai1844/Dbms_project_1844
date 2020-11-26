@@ -1,16 +1,23 @@
 # Vehicle Sales Management System 
 
-Vehicle Sales Management System  in PHP and using mysql. 
+Vehicle Sales Management System  in PHP and using Mysql. 
 
 #Features : 
 
 Front End with Vehicles Added from Back-end with details
+
 Back-end login system for admins to manage sales data ,
 Employees. 
+
 Different Controlling for Admin and Employee
-New Employee Adding for doing Sales , 
-Adding new vehicles
+
+New Employee Adding for doing Sales ,
+ 
+Adding new vehicles, 
+
 car customer relation.
+
+        #Objectives :      
 
 	Admin Features : # Add, Edit , Delete almost anything(Including new users), Sell vehicles, See customer Details.
 
