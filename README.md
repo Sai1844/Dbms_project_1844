@@ -23,7 +23,7 @@ car customer relation.
 
 	Employee Features : # Add vehicles only and Sell them to new clients with their details.
 
-	Customer Freatures : # Login to see warrenty date and other details of the bought car.
+	Customer Features : # Login to see warranty date and other details of the bought car.
 
 
 	-------------------------------------------------------------------------
